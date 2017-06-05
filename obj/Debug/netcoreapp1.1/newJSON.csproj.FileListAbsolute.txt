@@ -1,0 +1,9 @@
+C:\Users\huda\Documents\GitHub\newJSON\bin\Debug\netcoreapp1.1\newJSON.deps.json
+C:\Users\huda\Documents\GitHub\newJSON\bin\Debug\netcoreapp1.1\newJSON.runtimeconfig.json
+C:\Users\huda\Documents\GitHub\newJSON\bin\Debug\netcoreapp1.1\newJSON.runtimeconfig.dev.json
+C:\Users\huda\Documents\GitHub\newJSON\bin\Debug\netcoreapp1.1\newJSON.dll
+C:\Users\huda\Documents\GitHub\newJSON\bin\Debug\netcoreapp1.1\newJSON.pdb
+C:\Users\huda\Documents\GitHub\newJSON\obj\Debug\netcoreapp1.1\newJSON.AssemblyInfo.cs
+C:\Users\huda\Documents\GitHub\newJSON\obj\Debug\netcoreapp1.1\newJSON.dll
+C:\Users\huda\Documents\GitHub\newJSON\obj\Debug\netcoreapp1.1\newJSON.pdb
+C:\Users\huda\Documents\GitHub\newJSON\obj\Debug\netcoreapp1.1\newJSON.csprojResolveAssemblyReference.cache
